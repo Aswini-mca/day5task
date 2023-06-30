@@ -1,0 +1,58 @@
+{
+    "basics": {
+      "name": "Aswini R",
+      "label": "full stack developer",
+      "picture": "image link",
+      "email": "aswini.mca@gmail.com",
+      "phone": 9876543210,
+      "degree": "MCA",
+      "summary": "An enthusiastic freasher to seek a challenging position where I can apply my skills and knowledge",
+      "location": {
+        "address": "Your street address or mailing address",
+        "postalCode": 600091,
+        "city": "Chennai",
+        "countryCode": "India",
+        "region": "Your region"
+      },
+      "education": [
+        {
+          "institution": "Bharthidasan University",
+          "degree": "MCA",
+          "yearOfPassing": 2014,
+          "percentage": 81
+          
+        },
+        {
+            "institution": "Bon secours college for women",
+            "degree": "BCA",
+            "yearOfPassing": 2012,
+            "percentage": 85
+            
+        }
+          
+      ],
+      "skills": [
+        {
+          "name": "Programming Languages",
+          "level": "Intermediate",
+          "keywords": [
+            "HTML","Javascript"
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "language": ["english","tamil"],
+          "fluency": "well fluent"
+        }
+      ],
+      "interests": [
+        {
+          "name": ["drawing","music"],
+          "keywords": [
+            "pencil sketch","hearing songs"
+          ]
+        }
+    ]
+}
+}
